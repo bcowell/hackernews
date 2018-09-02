@@ -17,8 +17,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Folder Structure
 
-After creation, your project should look like this:
-
 ```
 hackernews/
 	node_modules/
